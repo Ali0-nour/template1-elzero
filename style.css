@@ -84,7 +84,7 @@ animation-name: icon;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url(images/landing.jpg);
+    background-image: url(./images/landing.jpg);
     background-repeat: repeat;
     background-position: center;
 }
